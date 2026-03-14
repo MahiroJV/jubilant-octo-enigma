@@ -94,7 +94,7 @@ MIT License — use it, share it, break it, fix it. 🔥
  
 ## 👋 About Me
  
-Just a human who loves Linux, hates mice (the computer kind 😄), and believes the terminal is the most powerful tool ever invented.
+Just a human who loves Linux, and believes the terminal is the most powerful tool ever invented.
  
 > *Started from zero. Still going. 🚀*
  
